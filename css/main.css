@@ -28,7 +28,7 @@ a {
 
 .social {
   height: 50px;
-  background: #47cfac;
+  background: #524129;
 }
 
 .social__container {
@@ -46,12 +46,12 @@ a {
 }
 
 .social__icons .fab {
-  color: #2C3A47;
+  color: #D9B16E;
   font-size: 26px;
 }
 
 .social__icons .fab:hover {
-  color: black;
+  color: #9F7E4E;
 }
 
 
@@ -80,7 +80,7 @@ a {
 }
 
 .main {
-  background: url("../assets/img/autumn_bg.jpg") center / cover;
+  background: url("../assets/img/bg_cafe.jpg") center / cover;
   text-align: center;
   display: flex;
   align-items: center;
@@ -105,8 +105,8 @@ a {
   display: inline-block;
   font-size: 16px;
   border-radius: 4px;
-  background: #47cfac;
-  color: black;
+  background: #524129;
+  color: white;
 }
 
 .main__button--dark {
@@ -114,8 +114,8 @@ a {
   display: inline-block;
   font-size: 16px;
   border-radius: 4px;
-  background: #2C3A47;
-  color: #47cfac;
+  background: #524129;
+  color: white;
 }
 
 .noticias {
